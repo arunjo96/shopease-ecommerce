@@ -30,5 +30,5 @@ Welcome to **ShopEase Ecommerce**, a full-stack ecommerce platform designed to p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/arunjo96/MERN-E-Commerce.git
+   git clone https://github.com/arunjo96/shopease-ecommerce.git
 
